@@ -1,7 +1,7 @@
 # medical-project
 Medical Website
 
-## MY WEBSITE LINK IS : 
+## MY WEBSITE LINK IS : https://ashy-bay-0d38d4c00.2.azurestaticapps.net/staff.html
 
 ## Home
 ![Screenshot (10)](https://user-images.githubusercontent.com/115791364/198563297-df3a687b-640c-4c67-a56a-a6b1fa4afdcb.png)
