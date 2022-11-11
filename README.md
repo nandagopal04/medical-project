@@ -1,6 +1,26 @@
 # medical-project
 Medical Website
 
+Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
+
+Web Technologies used: HTML, CSS, JS.
+
+IDE: VS-Code
+
+Industry : Lifestyle
+
+Project Title : Medical
+
+Problem Statement/Opportunity : Good Medication Is needed for evrey person.
+
+Project Description : Best Medicens Will Have Best Results 
+
+Primary Azure Technology : Static Web Apps, App Service
+
+Static Web App URL : https://orange-bush-07c571410.2.azurestaticapps.net/
+
+App Services URL : https://foodieswebsite.azurewebsites.net/
+
 ## MY WEBSITE LINK IS : https://ashy-bay-0d38d4c00.2.azurestaticapps.net/staff.html
 
 ## Home
