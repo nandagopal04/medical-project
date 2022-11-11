@@ -13,7 +13,7 @@ Project Title : Medical
 
 Problem Statement/Opportunity : Good Medication Is needed for evrey person.
 
-Project Description : Best Medicens Will Have Best Results 
+Project Description : Best Medicens Will Have Best Results.
 
 Primary Azure Technology : Static Web Apps, App Service
 
@@ -24,16 +24,15 @@ App Services URL : https://mediacalweb.azurewebsites.net
 ## MY WEBSITE LINK IS : https://ashy-bay-0d38d4c00.2.azurestaticapps.net
 
 ## Home
-![Screenshot (10)](https://user-images.githubusercontent.com/115791364/198563297-df3a687b-640c-4c67-a56a-a6b1fa4afdcb.png)
-![Screenshot (11)](https://user-images.githubusercontent.com/115791364/198563319-8e9e72a1-f4b6-493e-b67d-6d578185f23e.png)
-![Screenshot (12)](https://user-images.githubusercontent.com/115791364/198563330-009adf72-2e35-4159-8434-e5834d196f7c.png)
-![Screenshot (13)](https://user-images.githubusercontent.com/115791364/198563715-dd112608-b9af-46a9-95fa-b731949ea371.png)
+![Screenshot 2022-11-11 193216](https://user-images.githubusercontent.com/115791364/201356047-ce2f05fd-8f4e-47f9-ace9-4024369a96a1.jpg)
+![Screenshot 2022-11-11 193234](https://user-images.githubusercontent.com/115791364/201356040-4319679d-62c7-4c16-9de8-73f49028f8df.jpg)
+![Screenshot 2022-11-11 193003](https://user-images.githubusercontent.com/115791364/201356050-cbbd0e8d-cfa9-464d-b158-0141f1e65947.jpg)
+
 
 
 ## About
-![Screenshot 2022-11-11 193003](https://user-images.githubusercontent.com/115791364/201355581-01dd09e0-e0f8-40a5-abb9-4e587b2cca2e.jpg)
 ![Screenshot 2022-11-11 192950](https://user-images.githubusercontent.com/115791364/201355590-415e01d7-1ecd-4266-851f-109bfb31c50a.jpg)
-
+![Screenshot 2022-11-11 193003](https://user-images.githubusercontent.com/115791364/201355581-01dd09e0-e0f8-40a5-abb9-4e587b2cca2e.jpg)
 
 ## Contact
 ![Screenshot 2022-11-11 192900](https://user-images.githubusercontent.com/115791364/201355398-0b441dd5-24dc-4c96-ada1-d5e1a89a2505.jpg)
