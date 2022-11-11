@@ -1,5 +1,5 @@
 ## finalpro:Future Ready Talent Project By IKKURTHI NANDA GOPAL
-Medical Website
+## Medical Website
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
@@ -17,11 +17,11 @@ Project Description : Best Medicens Will Have Best Results
 
 Primary Azure Technology : Static Web Apps, App Service
 
-Static Web App URL : https://orange-bush-07c571410.2.azurestaticapps.net/
+Static Web App URL : https://ashy-bay-0d38d4c00.2.azurestaticapps.net
 
-App Services URL : https://foodieswebsite.azurewebsites.net/
+App Services URL : https://mediacalweb.azurewebsites.net
 
-## MY WEBSITE LINK IS : https://ashy-bay-0d38d4c00.2.azurestaticapps.net/staff.html
+## MY WEBSITE LINK IS : https://ashy-bay-0d38d4c00.2.azurestaticapps.net
 
 ## Home
 ![Screenshot (10)](https://user-images.githubusercontent.com/115791364/198563297-df3a687b-640c-4c67-a56a-a6b1fa4afdcb.png)
@@ -31,9 +31,14 @@ App Services URL : https://foodieswebsite.azurewebsites.net/
 
 
 ## About
-<img width="923" alt="about1" src="https://user-images.githubusercontent.com/115791364/198564296-9546682c-d301-4523-80b4-56a74234556b.png">
-<img width="890" alt="about2" src="https://user-images.githubusercontent.com/115791364/198564308-d0083f4d-f0c0-4530-8292-3ee2b9bbbcd0.png">
+![Screenshot 2022-11-11 193003](https://user-images.githubusercontent.com/115791364/201355581-01dd09e0-e0f8-40a5-abb9-4e587b2cca2e.jpg)
+![Screenshot 2022-11-11 192950](https://user-images.githubusercontent.com/115791364/201355590-415e01d7-1ecd-4266-851f-109bfb31c50a.jpg)
+
 
 ## Contact
-<img width="908" alt="contact1" src="https://user-images.githubusercontent.com/115791364/198564358-465f5fad-4634-402b-8829-a716d30dc940.png">
-<img width="899" alt="contact2" src="https://user-images.githubusercontent.com/115791364/198564380-34345477-b79e-4ccb-8274-cc7076613eb3.png">
+![Screenshot 2022-11-11 192900](https://user-images.githubusercontent.com/115791364/201355398-0b441dd5-24dc-4c96-ada1-d5e1a89a2505.jpg)
+
+
+## Azure Services Used
+![Screenshot 2022-11-11 193054](https://user-images.githubusercontent.com/115791364/201355721-54b44b1f-0c57-4655-a987-71fbea3154a6.jpg)
+
